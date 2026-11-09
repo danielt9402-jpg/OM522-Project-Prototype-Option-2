@@ -1,0 +1,30 @@
+{
+ "status": "feasible, checked",
+ "instance": "development_small",
+ "run_seconds": 0.002,
+ "method": "earliest-start dispatching (rule to beat)",
+ "measures": {
+  "makespan": 79,
+  "total_weighted_tardiness": 0,
+  "on_time_fraction": 1,
+  "jobs_completed": 5,
+  "job_completion": {
+   "J001": 67,
+   "J002": 69,
+   "J003": 42,
+   "J004": 79,
+   "J005": 34
+  },
+  "machine_utilization": {
+   "CUT_1": 0.6075949367088608,
+   "CUT_2": 0,
+   "CUT_3": 0.3037974683544304,
+   "DRILL_1": 0.6455696202531646,
+   "DRILL_2": 0.11392405063291139,
+   "MILL_1": 0.22784810126582278,
+   "MILL_2": 0.3924050632911392,
+   "FINISH_1": 0.3291139240506329,
+   "FINISH_2": 0.4430379746835443
+  }
+ }
+}

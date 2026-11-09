@@ -1,0 +1,6 @@
+instance: hand_checkable
+status:   feasible, checked
+computation time (s, includes loading and checking): 0.005
+method: earliest-start dispatching (rule to beat)
+makespan: 62
+total weighted tardiness: 0

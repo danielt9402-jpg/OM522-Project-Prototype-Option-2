@@ -1,0 +1,12 @@
+instance: development_small
+status:   feasible
+computation time (s, includes loading and checking): 0.003
+method: tabu search + tardiness phase (slack 0.000)
+start_solution: earliest_start
+seed: 1
+iterations: 1
+tw_iterations: 0
+restarts: 0
+stop_reason: target reached
+makespan: 79
+total weighted tardiness: 0

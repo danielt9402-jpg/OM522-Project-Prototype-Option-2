@@ -1,0 +1,40 @@
+{
+ "status": "feasible, checked",
+ "instance": "development_medium",
+ "run_seconds": 0.003,
+ "method": "earliest-start dispatching (rule to beat)",
+ "measures": {
+  "makespan": 141,
+  "total_weighted_tardiness": 465,
+  "on_time_fraction": 0.5333333333333333,
+  "jobs_completed": 15,
+  "job_completion": {
+   "J001": 82,
+   "J002": 51,
+   "J003": 80,
+   "J004": 87,
+   "J005": 86,
+   "J006": 48,
+   "J007": 76,
+   "J008": 140,
+   "J009": 63,
+   "J010": 122,
+   "J011": 141,
+   "J012": 51,
+   "J013": 117,
+   "J014": 94,
+   "J015": 75
+  },
+  "machine_utilization": {
+   "CUT_1": 0.6737588652482269,
+   "CUT_2": 0.28368794326241137,
+   "CUT_3": 0.44680851063829785,
+   "DRILL_1": 0.574468085106383,
+   "DRILL_2": 0.4326241134751773,
+   "MILL_1": 0.3546099290780142,
+   "MILL_2": 0.5673758865248227,
+   "FINISH_1": 0.6666666666666666,
+   "FINISH_2": 0.7801418439716312
+  }
+ }
+}

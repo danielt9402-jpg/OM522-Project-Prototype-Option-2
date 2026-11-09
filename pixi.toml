@@ -1,0 +1,19 @@
+# Not yet locked: run `pixi install` once to create pixi.lock and commit it.
+[project]
+name = "fjs-tool"
+channels = ["conda-forge"]
+platforms = ["linux-64", "osx-arm64", "win-64"]
+
+[dependencies]
+python = ">=3.11"
+numpy = "*"
+scipy = ">=1.9"        # HiGHS MILP benchmark only; the heuristics and the checker use the standard library
+matplotlib = "*"       # analysis plots only
+
+[tasks]
+solve = "python solve.py"                          # pixi run solve <input_dir> <output_dir>
+check = "python check.py"                          # pixi run check <input_dir> <decision.json>
+test = "python -m unittest discover -s tests"
+scenarios = "python make_scenarios.py"             # pixi run scenarios development_medium 30
+experiment = "python run_experiment.py"            # pixi run experiment development_medium
+analyze = "python analyze.py"                      # pixi run analyze development_medium

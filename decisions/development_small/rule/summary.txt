@@ -1,0 +1,6 @@
+instance: development_small
+status:   feasible, checked
+computation time (s, includes loading and checking): 0.002
+method: earliest-start dispatching (rule to beat)
+makespan: 79
+total weighted tardiness: 0

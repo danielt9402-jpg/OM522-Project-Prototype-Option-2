@@ -1,0 +1,12 @@
+instance: development_large
+status:   feasible
+computation time (s, includes loading and checking): 78.592
+method: tabu search + tardiness phase (slack 0.000)
+start_solution: gt_mwkr
+seed: 1
+iterations: 5000
+tw_iterations: 2500
+restarts: 39
+stop_reason: iteration limit
+makespan: 290
+total weighted tardiness: 2975

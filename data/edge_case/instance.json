@@ -1,0 +1,13 @@
+{
+  "option_number": 2,
+  "option_name": "flexible_job_shop",
+  "profile": "edge_case",
+  "base_seed": 522524,
+  "instance_seed": 552595,
+  "size_parameter": 10,
+  "expected_condition": "intentional_edge_or_infeasible",
+  "schema_version": 4,
+  "time_unit": "minutes",
+  "condition_detail": "infeasible final operation with no eligible machine",
+  "source": "synthetic instructor-generated data"
+}

@@ -1,0 +1,274 @@
+{
+ "schedule": [
+  {
+   "operation_id": "J002_O1",
+   "machine_id": "CUT_2",
+   "start": 5,
+   "completion": 21
+  },
+  {
+   "operation_id": "J009_O1",
+   "machine_id": "CUT_1",
+   "start": 5,
+   "completion": 27
+  },
+  {
+   "operation_id": "J012_O1",
+   "machine_id": "FINISH_2",
+   "start": 6,
+   "completion": 25
+  },
+  {
+   "operation_id": "J001_O1",
+   "machine_id": "CUT_3",
+   "start": 6,
+   "completion": 29
+  },
+  {
+   "operation_id": "J005_O1",
+   "machine_id": "DRILL_2",
+   "start": 14,
+   "completion": 32
+  },
+  {
+   "operation_id": "J002_O2",
+   "machine_id": "FINISH_1",
+   "start": 21,
+   "completion": 27
+  },
+  {
+   "operation_id": "J011_O1",
+   "machine_id": "MILL_2",
+   "start": 21,
+   "completion": 32
+  },
+  {
+   "operation_id": "J006_O1",
+   "machine_id": "CUT_2",
+   "start": 21,
+   "completion": 36
+  },
+  {
+   "operation_id": "J015_O1",
+   "machine_id": "FINISH_2",
+   "start": 26,
+   "completion": 47
+  },
+  {
+   "operation_id": "J009_O2",
+   "machine_id": "FINISH_1",
+   "start": 27,
+   "completion": 32
+  },
+  {
+   "operation_id": "J002_O3",
+   "machine_id": "MILL_1",
+   "start": 27,
+   "completion": 51
+  },
+  {
+   "operation_id": "J012_O2",
+   "machine_id": "CUT_1",
+   "start": 27,
+   "completion": 51
+  },
+  {
+   "operation_id": "J001_O2",
+   "machine_id": "DRILL_1",
+   "start": 29,
+   "completion": 40
+  },
+  {
+   "operation_id": "J005_O2",
+   "machine_id": "FINISH_1",
+   "start": 32,
+   "completion": 38
+  },
+  {
+   "operation_id": "J009_O3",
+   "machine_id": "MILL_2",
+   "start": 32,
+   "completion": 40
+  },
+  {
+   "operation_id": "J007_O1",
+   "machine_id": "DRILL_2",
+   "start": 32,
+   "completion": 42
+  },
+  {
+   "operation_id": "J014_O1",
+   "machine_id": "FINISH_1",
+   "start": 38,
+   "completion": 54
+  },
+  {
+   "operation_id": "J006_O2",
+   "machine_id": "DRILL_1",
+   "start": 40,
+   "completion": 48
+  },
+  {
+   "operation_id": "J013_O1",
+   "machine_id": "MILL_2",
+   "start": 42,
+   "completion": 53
+  },
+  {
+   "operation_id": "J009_O4",
+   "machine_id": "DRILL_2",
+   "start": 42,
+   "completion": 63
+  },
+  {
+   "operation_id": "J015_O2",
+   "machine_id": "CUT_2",
+   "start": 47,
+   "completion": 56
+  },
+  {
+   "operation_id": "J001_O3",
+   "machine_id": "FINISH_2",
+   "start": 47,
+   "completion": 58
+  },
+  {
+   "operation_id": "J005_O3",
+   "machine_id": "CUT_1",
+   "start": 51,
+   "completion": 60
+  },
+  {
+   "operation_id": "J013_O2",
+   "machine_id": "DRILL_1",
+   "start": 53,
+   "completion": 74
+  },
+  {
+   "operation_id": "J007_O2",
+   "machine_id": "MILL_2",
+   "start": 53,
+   "completion": 76
+  },
+  {
+   "operation_id": "J003_O1",
+   "machine_id": "FINISH_1",
+   "start": 54,
+   "completion": 71
+  },
+  {
+   "operation_id": "J014_O2",
+   "machine_id": "CUT_3",
+   "start": 54,
+   "completion": 77
+  },
+  {
+   "operation_id": "J015_O3",
+   "machine_id": "MILL_1",
+   "start": 56,
+   "completion": 75
+  },
+  {
+   "operation_id": "J004_O1",
+   "machine_id": "FINISH_2",
+   "start": 58,
+   "completion": 77
+  },
+  {
+   "operation_id": "J010_O1",
+   "machine_id": "FINISH_1",
+   "start": 71,
+   "completion": 92
+  },
+  {
+   "operation_id": "J001_O4",
+   "machine_id": "MILL_1",
+   "start": 75,
+   "completion": 82
+  },
+  {
+   "operation_id": "J003_O2",
+   "machine_id": "MILL_2",
+   "start": 76,
+   "completion": 80
+  },
+  {
+   "operation_id": "J004_O2",
+   "machine_id": "CUT_1",
+   "start": 77,
+   "completion": 87
+  },
+  {
+   "operation_id": "J014_O3",
+   "machine_id": "DRILL_1",
+   "start": 77,
+   "completion": 94
+  },
+  {
+   "operation_id": "J011_O2",
+   "machine_id": "FINISH_2",
+   "start": 77,
+   "completion": 96
+  },
+  {
+   "operation_id": "J005_O4",
+   "machine_id": "MILL_2",
+   "start": 80,
+   "completion": 86
+  },
+  {
+   "operation_id": "J010_O2",
+   "machine_id": "CUT_1",
+   "start": 92,
+   "completion": 101
+  },
+  {
+   "operation_id": "J008_O1",
+   "machine_id": "FINISH_1",
+   "start": 92,
+   "completion": 115
+  },
+  {
+   "operation_id": "J013_O3",
+   "machine_id": "FINISH_2",
+   "start": 96,
+   "completion": 117
+  },
+  {
+   "operation_id": "J011_O3",
+   "machine_id": "DRILL_1",
+   "start": 96,
+   "completion": 120
+  },
+  {
+   "operation_id": "J010_O3",
+   "machine_id": "DRILL_2",
+   "start": 101,
+   "completion": 105
+  },
+  {
+   "operation_id": "J010_O4",
+   "machine_id": "MILL_2",
+   "start": 105,
+   "completion": 122
+  },
+  {
+   "operation_id": "J008_O2",
+   "machine_id": "CUT_3",
+   "start": 115,
+   "completion": 132
+  },
+  {
+   "operation_id": "J011_O4",
+   "machine_id": "CUT_1",
+   "start": 120,
+   "completion": 141
+  },
+  {
+   "operation_id": "J008_O3",
+   "machine_id": "DRILL_2",
+   "start": 132,
+   "completion": 140
+  }
+ ]
+}

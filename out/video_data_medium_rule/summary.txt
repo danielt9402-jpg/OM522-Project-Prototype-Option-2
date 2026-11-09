@@ -1,0 +1,6 @@
+instance: development_medium
+status:   feasible, checked
+computation time (s, includes loading and checking): 0.007
+method: earliest-start dispatching (rule to beat)
+makespan: 141
+total weighted tardiness: 465

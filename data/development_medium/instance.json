@@ -1,0 +1,13 @@
+{
+  "option_number": 2,
+  "option_name": "flexible_job_shop",
+  "profile": "development_medium",
+  "base_seed": 522524,
+  "instance_seed": 552561,
+  "size_parameter": 45,
+  "expected_condition": "feasible",
+  "schema_version": 4,
+  "time_unit": "minutes",
+  "condition_detail": "different operation routes and machine alternatives",
+  "source": "synthetic instructor-generated data"
+}

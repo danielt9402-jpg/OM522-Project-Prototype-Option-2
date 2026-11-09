@@ -1,0 +1,100 @@
+{
+  "format": "CSV with a header row",
+  "files": {
+    "jobs.csv": {
+      "row_count": 3,
+      "columns": [
+        {
+          "name": "job_id",
+          "type": "string",
+          "nullable": false
+        },
+        {
+          "name": "release_time",
+          "type": "integer",
+          "nullable": false
+        },
+        {
+          "name": "due_date",
+          "type": "integer",
+          "nullable": false
+        },
+        {
+          "name": "weight",
+          "type": "integer",
+          "nullable": false
+        }
+      ]
+    },
+    "machine_alternatives.csv": {
+      "row_count": 11,
+      "columns": [
+        {
+          "name": "operation_id",
+          "type": "string",
+          "nullable": false
+        },
+        {
+          "name": "machine_id",
+          "type": "string",
+          "nullable": false
+        },
+        {
+          "name": "processing_time",
+          "type": "integer",
+          "nullable": false
+        }
+      ]
+    },
+    "machines.csv": {
+      "row_count": 9,
+      "columns": [
+        {
+          "name": "machine_id",
+          "type": "string",
+          "nullable": false
+        },
+        {
+          "name": "machine_type",
+          "type": "string",
+          "nullable": false
+        },
+        {
+          "name": "available_start",
+          "type": "integer",
+          "nullable": false
+        },
+        {
+          "name": "available_end",
+          "type": "integer",
+          "nullable": false
+        }
+      ]
+    },
+    "operations.csv": {
+      "row_count": 9,
+      "columns": [
+        {
+          "name": "operation_id",
+          "type": "string",
+          "nullable": false
+        },
+        {
+          "name": "job_id",
+          "type": "string",
+          "nullable": false
+        },
+        {
+          "name": "sequence",
+          "type": "integer",
+          "nullable": false
+        },
+        {
+          "name": "machine_type",
+          "type": "string",
+          "nullable": false
+        }
+      ]
+    }
+  }
+}

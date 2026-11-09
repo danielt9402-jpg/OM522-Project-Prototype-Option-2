@@ -1,0 +1,2 @@
+instance: edge_case
+status:   infeasible: operation J003_O4 (job J003, machine type CUT) has no eligible machine in machine_alternatives.csv

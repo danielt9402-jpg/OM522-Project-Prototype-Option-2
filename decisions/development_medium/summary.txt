@@ -1,0 +1,12 @@
+instance: development_medium
+status:   feasible
+computation time (s, includes loading and checking): 8.19
+method: tabu search + tardiness phase (slack 0.000)
+start_solution: earliest_start
+seed: 1
+iterations: 5000
+tw_iterations: 2500
+restarts: 49
+stop_reason: iteration limit
+makespan: 120
+total weighted tardiness: 322
