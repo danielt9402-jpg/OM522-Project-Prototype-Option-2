@@ -1,7 +1,8 @@
 # Flexible job shop scheduler (OM 522, option 2)
 
-Built against option brief and data package **schema version 4** (October 2026): no `disruptions.csv`, no breakdowns,
-stress test on processing times only. The four input CSVs and the worked example are unchanged from schema 3.
+Authors: Abigail Carl, Hannah Hamilton, and Daniel Thompson
+
+The goal of this project is to design code to minimize the makespan of operations for the given data set. The way for this to be done is using the tabu method. Along with the tabu method, is the tabu_tw. This is the tabu method, but with the additional goal of reducing tardiness. To the best of our knowledge, both of these are fully functional and should work in edge cases as well.
 
 ## 1\. The decision
 
